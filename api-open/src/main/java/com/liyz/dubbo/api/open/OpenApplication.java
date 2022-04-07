@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * 注释:启动类
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/7/25 0:26
  */

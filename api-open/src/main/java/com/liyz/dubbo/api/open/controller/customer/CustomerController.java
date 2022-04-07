@@ -17,7 +17,7 @@ import springfox.documentation.annotations.ApiIgnore;
 /**
  * 注释:
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/8/17 15:37
  */
@@ -30,7 +30,7 @@ import springfox.documentation.annotations.ApiIgnore;
         @ApiResponse(code = 500, message = "服务器内部错误")
 })
 @Slf4j
-@RestController
+@RestController 
 @RequestMapping("/customer")
 public class CustomerController {
 

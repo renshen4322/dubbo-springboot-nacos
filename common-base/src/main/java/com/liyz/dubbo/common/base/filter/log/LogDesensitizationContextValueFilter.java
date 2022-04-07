@@ -6,7 +6,7 @@ import ch.qos.logback.classic.spi.ILoggingEvent;
 /**
  * 注释:自定义log脱敏过滤器
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/6/2 16:57
  */

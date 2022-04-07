@@ -14,7 +14,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 注释:注册配置类
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/8/24 14:14
  */

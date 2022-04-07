@@ -3,7 +3,7 @@ package com.liyz.dubbo.common.base.cglib;
 /**
  * 注释:
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2019/10/14 17:10
  */

@@ -5,7 +5,7 @@ import java.lang.annotation.*;
 /**
  * 注释: mapping限流注解
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2019/9/10 13:57
  */

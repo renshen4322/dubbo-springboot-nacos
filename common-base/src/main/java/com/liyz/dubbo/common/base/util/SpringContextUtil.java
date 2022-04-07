@@ -12,7 +12,7 @@ import java.util.Map;
 /**
  * 注释:获取springContext工具类
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2019/8/28 14:41
  */

@@ -5,7 +5,7 @@ import com.liyz.dubbo.common.remote.bo.JwtUserBO;
 /**
  * 注释:用户登陆信息获取接口
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/1/6 14:23
  */

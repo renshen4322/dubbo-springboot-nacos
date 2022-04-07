@@ -6,7 +6,7 @@ import com.liyz.dubbo.common.remote.exception.service.ServiceCodeEnum;
 /**
  * 注释:自定义业务异常类
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2019/8/29 14:04
  */

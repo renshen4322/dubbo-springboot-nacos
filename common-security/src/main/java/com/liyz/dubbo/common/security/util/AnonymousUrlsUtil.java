@@ -21,7 +21,7 @@ import java.util.Map;
 /**
  * 注释:免鉴权url注解工具类
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/8/18 11:28
  */

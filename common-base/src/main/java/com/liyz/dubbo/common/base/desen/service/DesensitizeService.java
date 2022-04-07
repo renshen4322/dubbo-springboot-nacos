@@ -6,7 +6,7 @@ import org.apache.commons.lang3.StringUtils;
 /**
  * 注释:反序列化脱敏接口
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/6/2 16:49
  */

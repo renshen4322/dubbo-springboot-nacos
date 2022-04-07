@@ -19,7 +19,7 @@ import java.util.zip.ZipOutputStream;
 /**
  * 注释:
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/3/17 15:54
  */
@@ -107,7 +107,7 @@ public final class ZipUtil {
         return decompressed;
     }
 
-    private static final String path = "C:\\Users\\liyangzhen\\Desktop\\dubbo-admin\\test\\dubbo-admin-0.1.jar";
+    private static final String path = "C:\\Users\\mark\\Desktop\\dubbo-admin\\test\\dubbo-admin-0.1.jar";
 
     private static final String outPath = "C:\\file\\test\\FILE_NAME.zip";
 

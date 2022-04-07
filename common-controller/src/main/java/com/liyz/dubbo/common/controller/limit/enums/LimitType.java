@@ -3,7 +3,7 @@ package com.liyz.dubbo.common.controller.limit.enums;
 /**
  * 注释: 限流类型
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2019/9/10 14:02
  */

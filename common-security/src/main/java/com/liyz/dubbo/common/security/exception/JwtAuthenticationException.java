@@ -5,7 +5,7 @@ import org.springframework.security.core.AuthenticationException;
 /**
  * 注释:认证错误信息
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/8/18 20:07
  */

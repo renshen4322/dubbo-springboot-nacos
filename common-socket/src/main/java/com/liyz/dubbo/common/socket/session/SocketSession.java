@@ -8,7 +8,7 @@ import lombok.Setter;
 /**
  * 注释:socket session info
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/7/24 13:54
  */

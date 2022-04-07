@@ -5,7 +5,7 @@ import com.liyz.dubbo.common.remote.bo.JwtUserBO;
 /**
  * 注释:
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2019/11/20 9:52
  */

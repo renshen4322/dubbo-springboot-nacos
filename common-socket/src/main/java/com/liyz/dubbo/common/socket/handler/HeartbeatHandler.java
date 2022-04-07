@@ -22,7 +22,7 @@ import org.springframework.util.Assert;
 /**
  * 注释:心跳以及不同协议以及session消息
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/7/24 14:55
  */

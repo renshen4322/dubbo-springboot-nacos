@@ -19,7 +19,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * 注释:redisson 服务
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2019/7/22 10:47
  */

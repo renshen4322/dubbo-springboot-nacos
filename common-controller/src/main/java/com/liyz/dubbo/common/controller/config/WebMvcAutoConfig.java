@@ -25,7 +25,7 @@ import java.util.TimeZone;
 /**
  * 注释:webmvc 配置类
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/7/3 10:17
  */

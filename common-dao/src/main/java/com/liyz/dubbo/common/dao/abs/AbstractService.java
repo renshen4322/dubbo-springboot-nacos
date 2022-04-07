@@ -15,7 +15,7 @@ import java.util.List;
 /**
  * 注释:基于通用MyBatis Mapper插件的Service接口的实现
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2019/8/28 18:04
  */

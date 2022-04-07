@@ -12,7 +12,7 @@ import java.util.Map;
 /**
  * 注释:消息实体类
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2019/9/6 10:12
  */

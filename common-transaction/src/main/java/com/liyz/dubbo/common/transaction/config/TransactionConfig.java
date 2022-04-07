@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 注释:seata 配置类
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/7/20 15:16
  */

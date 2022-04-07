@@ -15,7 +15,7 @@ import java.io.IOException;
 /**
  * 注释:授权认证拦截器
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/8/18 16:55
  */

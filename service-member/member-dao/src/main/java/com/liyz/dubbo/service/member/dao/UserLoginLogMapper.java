@@ -7,7 +7,7 @@ import com.liyz.dubbo.service.member.model.UserLoginLogDO;
 /**
  * 注释:
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/3/11 15:26
  */

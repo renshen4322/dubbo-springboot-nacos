@@ -5,7 +5,7 @@ import io.netty.channel.Channel;
 /**
  * 注释:socket session接口
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/7/24 13:52
  */

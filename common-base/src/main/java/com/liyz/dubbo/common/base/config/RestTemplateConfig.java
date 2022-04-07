@@ -14,7 +14,7 @@ import org.springframework.web.client.RestTemplate;
 /**
  * 注释: restTemplate bean
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2019/8/16 16:33
  */

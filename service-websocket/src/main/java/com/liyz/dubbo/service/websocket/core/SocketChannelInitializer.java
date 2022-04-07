@@ -12,7 +12,7 @@ import lombok.extern.slf4j.Slf4j;
 /**
  * 注释:netty channel 初始化类
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/7/24 14:45
  */

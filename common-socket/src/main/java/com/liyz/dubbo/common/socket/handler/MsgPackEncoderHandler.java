@@ -10,7 +10,7 @@ import org.msgpack.MessagePack;
 /**
  * 注释:消息返回体编码
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/7/24 15:26
  */

@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * 注释:Service 层 基础接口，其他Service 接口 请继承该接口
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2019/8/28 18:05
  */

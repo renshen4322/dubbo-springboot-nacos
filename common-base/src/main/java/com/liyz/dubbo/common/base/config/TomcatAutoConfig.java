@@ -14,7 +14,7 @@ import javax.servlet.MultipartConfigElement;
 /**
  * 注释:tomcat文件传输配置类
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2019/10/28 13:29
  */

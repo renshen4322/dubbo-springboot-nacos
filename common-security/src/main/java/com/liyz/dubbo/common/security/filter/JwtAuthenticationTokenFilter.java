@@ -27,7 +27,7 @@ import java.util.UUID;
 /**
  * 注释:登陆鉴权 filter
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/8/18 10:01
  */
@@ -69,15 +69,15 @@ public class JwtAuthenticationTokenFilter extends OncePerRequestFilter {
                         }
                         Device device = new LiteDeviceResolver().resolveDevice(httpServletRequest);
                         Integer validate = jwtAccessTokenConverter.validateToken(authToken, userDetails, device);
-                        if (validate == SecurityConstant.VALIDATE_TOKEN_SUCCESS) {
+                        if (validate.equals( SecurityConstant.VALIDATE_TOKEN_SUCCESS)) {
                             UsernamePasswordAuthenticationToken authentication =
                                     new UsernamePasswordAuthenticationToken(userDetails, null, userDetails.getAuthorities());
                             authentication.setDetails(new WebAuthenticationDetailsSource().buildDetails(httpServletRequest));
                             SecurityContextHolder.getContext().setAuthentication(authentication);
-                        } else if (validate == SecurityConstant.VALIDATE_TOKEN_FAIL_EXPIRED) {
+                        } else if (validate.equals( SecurityConstant.VALIDATE_TOKEN_FAIL_EXPIRED)) {
                             AuthenticationResponseUtil.authExpired(httpServletResponse);
                             return;
-                        } else if (validate == SecurityConstant.VALIDATE_TOKEN_FAIL_OTHER_LOGIN) {
+                        } else if (validate.equals( SecurityConstant.VALIDATE_TOKEN_FAIL_OTHER_LOGIN)) {
                             AuthenticationResponseUtil.authOthersLogin(httpServletResponse);
                             return;
                         }

@@ -3,7 +3,7 @@ package com.liyz.dubbo.common.dao.exception;
 /**
  * 注释: sql异常类
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2019/8/28 18:10
  */

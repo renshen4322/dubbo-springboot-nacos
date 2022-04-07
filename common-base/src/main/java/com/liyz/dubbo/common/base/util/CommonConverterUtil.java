@@ -28,7 +28,7 @@ import java.util.Map;
 /**
  * 注释: bean copy util
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2019/8/28 16:38
  */

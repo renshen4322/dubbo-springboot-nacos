@@ -13,7 +13,7 @@ import org.springframework.web.filter.CorsFilter;
  * spring security的过滤器链早于WebMvcConfigurerAdapter，导致跨域配置失效
  * 这里自定义跨域filter，并设置其优先级，早于security的过滤器执行
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2019/8/16 14:07
  */

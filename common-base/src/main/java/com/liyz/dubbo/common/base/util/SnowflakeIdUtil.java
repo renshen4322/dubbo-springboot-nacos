@@ -11,7 +11,7 @@ import java.net.UnknownHostException;
  * 把机器内网ip的最末尾的数用来当作workerId即可,
  * 比较容易的解决了微服务多机部署带来的workerId配置困难问题。
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2019/10/24 14:29
  */

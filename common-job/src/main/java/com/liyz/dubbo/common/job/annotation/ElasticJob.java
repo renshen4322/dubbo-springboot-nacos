@@ -7,7 +7,7 @@ import java.lang.annotation.*;
 /**
  * 注释:elastic job注解
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/8/24 14:00
  */

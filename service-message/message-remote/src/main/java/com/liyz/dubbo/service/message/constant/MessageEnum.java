@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 /**
  * 注释:消息常量
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/7/14 18:02
  */

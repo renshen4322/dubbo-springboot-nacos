@@ -8,7 +8,7 @@ import tk.mybatis.spring.annotation.MapperScan;
 /**
  * 注释:启动类
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/8/17 10:47
  */

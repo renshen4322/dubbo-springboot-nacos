@@ -15,7 +15,7 @@ import javax.validation.constraints.NotNull;
 /**
  * 注释:消息发送实现类
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/7/15 15:07
  */

@@ -26,7 +26,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 /**
  * 注释:elastic job 自动配置类
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/8/24 14:26
  */

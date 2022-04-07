@@ -12,7 +12,7 @@ import java.util.Objects;
 /**
  * 注释:json与实体类转化工具
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/7/3 12:05
  */

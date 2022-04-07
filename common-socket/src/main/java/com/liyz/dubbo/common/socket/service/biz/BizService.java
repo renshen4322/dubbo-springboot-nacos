@@ -5,7 +5,7 @@ import com.liyz.dubbo.common.socket.constant.DataTypeService;
 /**
  * 注释:业务请求接口
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/7/24 14:35
  */

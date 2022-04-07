@@ -12,7 +12,7 @@ import java.io.Serializable;
 /**
  * 注释:舆情
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/1/13 11:31
  */

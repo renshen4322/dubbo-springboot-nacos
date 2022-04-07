@@ -3,7 +3,7 @@ package com.liyz.dubbo.common.base.desen.enums;
 /**
  * 注释: 脱敏类型
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2019/8/14 19:55
  */

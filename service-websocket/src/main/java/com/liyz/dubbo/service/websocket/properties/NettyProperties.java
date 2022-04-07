@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 /**
  * 注释:netty配置信息
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/7/24 14:06
  */

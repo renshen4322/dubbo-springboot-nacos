@@ -18,7 +18,7 @@ import javax.mail.internet.MimeMessage;
 /**
  * 注释:邮件发送
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/7/15 10:33
  */

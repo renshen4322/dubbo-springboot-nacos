@@ -6,7 +6,7 @@ import com.liyz.dubbo.service.member.model.UserInfoDO;
 /**
  * 注释:
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2019/8/28 17:50
  */

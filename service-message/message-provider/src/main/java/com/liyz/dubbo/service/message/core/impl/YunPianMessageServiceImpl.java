@@ -18,7 +18,7 @@ import java.util.Properties;
 /**
  * 注释:云片短息
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/7/15 15:43
  */

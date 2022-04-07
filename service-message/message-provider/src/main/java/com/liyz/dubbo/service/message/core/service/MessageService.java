@@ -6,7 +6,7 @@ import com.liyz.dubbo.service.message.constant.MessageEnum;
 /**
  * 注释:消息发送接口
  *
- * @author liyangzhen
+ * @author mark
  * @version 1.0.0
  * @date 2020/7/15 9:33
  */
